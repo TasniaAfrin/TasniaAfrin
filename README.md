@@ -16,7 +16,7 @@ I'm a undergrad student of **Electronics and Telecommunication Engineering**, wi
 ## 🛠️ Languages and Tools
 <p align="left"> 
   <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/> 
 
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
